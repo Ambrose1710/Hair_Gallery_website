@@ -1,0 +1,7 @@
+{
+  "name": "Remix: The Hair Gallery",
+  "description": "A premium hair salon management and booking platform featuring a sleek client interface and a powerful admin dashboard for appointment management and scheduling.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

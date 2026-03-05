@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Playfair Display", serif;
+  --font-handwriting: "Dancing Script", cursive;
+
+  /* Custom Brand Purple - Matching the Logo (Royal/Deep Purple) */
+  --color-purple-50: #f5f3ff;
+  --color-purple-100: #ede9fe;
+  --color-purple-200: #ddd6fe;
+  --color-purple-300: #c4b5fd;
+  --color-purple-400: #a78bfa;
+  --color-purple-500: #8b5cf6;
+  --color-purple-600: #7c3aed;
+  --color-purple-700: #6d28d9;
+  --color-purple-800: #5b21b6;
+  --color-purple-900: #4c1d95;
+  --color-purple-950: #2e1065;
+}
